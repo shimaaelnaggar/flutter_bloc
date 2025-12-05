@@ -1,7 +1,8 @@
 import 'package:bloc/bloc.dart';
+import 'package:breaking_bad_app/data_layer/models/character.dart';
+import 'package:breaking_bad_app/data_layer/repository/characters_repository.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_bloc/data_layer/models/character.dart';
-import 'package:flutter_bloc/data_layer/repository/characters_repository.dart';
+
 // ignore: depend_on_referenced_packages
 import 'package:meta/meta.dart';
 

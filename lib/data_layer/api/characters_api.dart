@@ -1,6 +1,6 @@
+import 'package:breaking_bad_app/constants/strings.dart';
 // ignore: depend_on_referenced_packages
 import 'package:dio/dio.dart';
-import 'package:flutter_bloc/constants/strings.dart';
 
 class CharactersApi {
   late Dio dio;

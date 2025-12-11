@@ -8,6 +8,7 @@ android {
     namespace "com.example.breaking_bad_app"
     compileSdkVersion 34
 
+
     defaultConfig {
         applicationId "com.example.breaking_bad_app"
         minSdkVersion flutter.minSdkVersion
